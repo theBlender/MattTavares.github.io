@@ -1,7 +1,7 @@
 
 # MattTavares.github.io
 
-#### http://M.atthew.com - http://MattTavares.github.io
-#### https://github.com/MattTavares/MattTavares.github.io
+#### http://theBlender.github.io
+#### https://github.com/theBlender/theBlender.github.io
 
-This is Matthew Tavares' web portfolio
+This is a website about the blender
